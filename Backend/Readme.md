@@ -14,7 +14,7 @@ Welcome to the Link Tree Backend project! This project is designed to handle bac
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -123,9 +123,4 @@ We welcome contributions! Please follow these steps to contribute:
 4. Commit your changes (\`git commit -m 'Add some feature'\`).
 5. Push to the branch (\`git push origin feature-branch\`).
 6. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-"""
 
