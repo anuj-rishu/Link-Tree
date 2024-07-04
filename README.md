@@ -28,6 +28,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Push to the branch (`git push origin feature/your-feature`).
 6. Create a new Pull Request.
 
-## Additional Information
-
-For any questions or issues, please refer to the specific README files or contact the project team.
